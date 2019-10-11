@@ -8,6 +8,7 @@ _Normalize timestamps in log files to make them easier to diff._
 *Linux*
 
 * `coreutils` package for `date`
+* `gawk` package for `awk`
 
 *Mac OS X*
 
